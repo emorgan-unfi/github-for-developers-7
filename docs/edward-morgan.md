@@ -6,4 +6,6 @@
 
 **Favorite Food:** Tacos
 
+**Favorite Color:** Green
+
 **Hobby:** Spelunking
